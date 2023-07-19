@@ -1,9 +1,16 @@
 ### Olá, me chamo Andressa  👋
 
-- 🌱 Atualmente estou estudando Banco de Dados Relacionais (SQL).
+- Atualmente estou estudando Banco de Dados Relacionais (SQL).
 
 ##
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=andressafirmino&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressafirmino&layout=compact&langs_count=16&theme=omni"/>
+</div>
+<br>
 
+##
 <div style="display: inline_block"><br>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/visual-studio-code.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/nodejs.png" />
