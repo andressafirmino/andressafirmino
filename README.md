@@ -11,6 +11,7 @@
 <br>
 
 ##
+## Melhores tecnologias
 <div style="display: inline_block"><br>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/visual-studio-code.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/nodejs.png" />
@@ -25,7 +26,7 @@
 </div>
 
   ##
-  
+  ## Redes sociais
 <div> 
   <a href="https://www.linkedin.com/in/andressa-firmino-341564220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto: andressafirmino78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
