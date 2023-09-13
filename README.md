@@ -1,6 +1,6 @@
 ### Olá, me chamo Andressa  👋
 
-- Atualmente estou Arquitetura e Boas Práticas (simulação de onboarding).
+- Atualmente estou estudando TypeScript, Arquitetura e Boas Práticas (simulação de onboarding).
 
 ##
 <div>
