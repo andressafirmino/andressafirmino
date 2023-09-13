@@ -1,6 +1,6 @@
 ### Olá, me chamo Andressa  👋
 
-- Atualmente estou estudando Banco de Dados Relacionais (SQL).
+- Atualmente estou Arquitetura e Boas Práticas (simulação de onboarding).
 
 ##
 <div>
