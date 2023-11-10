@@ -1,6 +1,6 @@
 ### Olá, me chamo Andressa  👋
 
-- Olá, me chamo Andressa! Sou uma desenvolvedora e meu objetivo aqui é compartilhar um pouco sobre minha experiência e meu compromisso com a área de tecnologia.
+- Sou uma desenvolvedora e meu objetivo aqui é compartilhar um pouco sobre minha experiência e meu compromisso com a área de tecnologia.
 
 ##
 <div>
