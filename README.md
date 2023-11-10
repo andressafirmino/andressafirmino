@@ -1,6 +1,6 @@
 ### Olá, me chamo Andressa  👋
 
-- Atualmente estou estudando TypeScript, Arquitetura e Boas Práticas (simulação de onboarding).
+- Olá, me chamo Andressa! Sou uma desenvolvedora e meu objetivo aqui é compartilhar um pouco sobre minha experiência e meu compromisso com a área de tecnologia.
 
 ##
 <div>
